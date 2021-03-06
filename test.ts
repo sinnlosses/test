@@ -9,3 +9,4 @@ class Greeter {
 }
 var greeter = new Greeter("TypeScript");
 greeter.greet();
+greeter.greet();
